@@ -25,9 +25,10 @@ public class Main {
         };
 
         System.out.println("Randomly generated strings are:");
-        /*
-         * //This for loop will create 5 randomly generated strings
+        /**
+         * This for loop will create 5 randomly generated strings
          */
+
         for (int i=0;i<5;i++){
             wordList.add (stringFunction.randomStringGenerator());
         }
