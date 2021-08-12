@@ -15,7 +15,7 @@ public class BusinessRequirements {
 
     /**
      * This will check the first letter of the string and if it satisfies the condition will increment
-     *     the counter and return it.
+     * the counter and return it.
      * @return          Number of words/strings which start with m or M
      */
     public int checkFirstLetter (){
