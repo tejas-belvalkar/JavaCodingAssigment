@@ -9,7 +9,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class MainClassUnitTests {
+class BusinessRequirementsUnitTests {
 
     BusinessRequirements businessRequirements = new BusinessRequirements(new ArrayList<>(Arrays.asList("apple","banana","mango")));
 
